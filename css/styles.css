@@ -318,7 +318,7 @@ img {
     width: 100%;
     height: 100%;
     border: 1px solid var(--net-icon-color);
-    border-radius: 1px;
+    border-radius: 4px;
     display: flex;
     align-items: center;
     justify-content: center;
